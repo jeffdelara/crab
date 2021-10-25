@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage" : "/batch13-fe-activities/crab",
   "eslintConfig": {
     "extends": [
       "react-app",
